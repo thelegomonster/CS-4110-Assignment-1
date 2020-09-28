@@ -16,7 +16,7 @@ Java-based simulation tool based on the live poll idea used for class (Kahoot/Me
   - Need a "SimulationDriver" to automatically simulate the whole process. The driver should...
     - create a question type and configure answers.
     - configure the question for iVote Service.
- 			- randomly generate a number of students and the answers.
- 			- submit all the students' answers to iVote Service.
- 			- call the iVote service output function to display the result.
+    - randomly generate a number of students and the answers.
+    - submit all the students' answers to iVote Service.
+    - call the iVote service output function to display the result.
 
